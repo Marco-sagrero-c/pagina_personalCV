@@ -3,8 +3,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #444242;
+    color: #f6efefe8;
 }
 
 .container {
@@ -14,8 +14,8 @@ body {
 }
 
 header {
-    background: #333;
-    color: #fff;
+    background-image: image-set("./img/img1.jpg");
+    color: #f7f7f7;
     padding-top: 30px;
     min-height: 70px;
     border-bottom: #77aaff 3px solid;
@@ -48,7 +48,7 @@ ul {
 
 ul li {
     background: #77aaff;
-    color: #fff;
+    color: #2f1f1f;
     margin: 5px 0;
     padding: 10px;
     border-radius: 5px;
@@ -56,7 +56,7 @@ ul li {
 
 footer {
     background: #333;
-    color: #fff;
+    color: #d3c9c9;
     text-align: center;
     padding: 10px 0;
     margin-top: 20px;
